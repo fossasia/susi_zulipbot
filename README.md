@@ -1,4 +1,5 @@
 # SUSI Zulip chat bot
+
 [![Join the chat at https://gitter.im/fossasia/susi_server](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fossasia/susi_server)
 [Zulip](https://zulipchat.com/) is a real time messaging system. SUSI zulip bot integrates into an Zulip organisation and then users can chat with SUSI within that organisation. It fetches response from [SUSI Server](https://github.com/fossasia/susi_server) in the background and also has some added features for the Zulip platform.
 
