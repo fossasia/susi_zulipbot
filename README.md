@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/fossasia/susi_server](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fossasia/susi_server)
 
-[Zulip](https://zulipchat.com/) is a real time messaging system. SUSI zulip bot integrates into an Zulip organisation and then users can chat with SUSI within that organisation. It fetches response from [SUSI Server](https://github.com/fossasia/susi_server) in the background and also has some added features for the Zulip platform.
+[Zulip](https://zulipchat.com/) is a real time messaging system. SUSI zulip bot integrates into a Zulip organisation and then users can chat with SUSI within that organisation. It fetches response from [SUSI Server](https://github.com/fossasia/susi_server) in the background and also has some added features for the Zulip platform.
 
 According to the Zulip conventions of [developing bots](https://zulipchat.com/api/writing-bots#installing-a-development-version-of-the-zulip-bots-package), all bots should reside in the [python-zulip-api](https://github.com/zulip/python-zulip-api) repository. Thus, this repository only serves to contain information and updates regarding the SUSI Zulip bot. The bot code resides in the official zulip bot repository ([python-zulip-api/zulip_bots/susi](https://github.com/zulip/python-zulip-api/tree/master/zulip_bots/zulip_bots/bots/susi)).
 
@@ -26,7 +26,7 @@ Zulip provides an easy way to test the bot's output in development from the term
 Then you can give an input to test the output. For more info, checkout documentation for [Testing a bot's output](https://zulipchat.com/api/writing-bots#testing-a-bots-output). 
 
 ## About contributing
-To contribute to the SUSI Zulip bot, you need to follow the above process of setting up the [python-zulip-api](https://github.com/zulip/python-zulip-api) repository
+To contribute to the SUSI Zulip bot, you need to follow the above process of setting up the [python-zulip-api](https://github.com/zulip/python-zulip-api) repository and then send Pull Requests to the [python-zulip-api](https://github.com/zulip/python-zulip-api) repository adding features to the susi bot.
 ## Screenshots
 Some of the screenshots of the SUSI Zulip bot:
 ![image](https://user-images.githubusercontent.com/17807257/40143106-19bf6150-5978-11e8-82bc-61e9c7489550.png)
