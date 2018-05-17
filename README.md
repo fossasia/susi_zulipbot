@@ -26,7 +26,7 @@ Zulip provides an easy way to test the bot's output in development from the term
 Then you can give an input to test the output. For more info, checkout documentation for [Testing a bot's output](https://zulipchat.com/api/writing-bots#testing-a-bots-output). 
 
 ## About contributing
-To contribute to the SUSI Zulip bot, you need to follow the above process of setting up the [python-zulip-api](https://github.com/zulip/python-zulip-api) repository and then send Pull Requests to the [python-zulip-api](https://github.com/zulip/python-zulip-api) repository adding features to the susi bot.
+To contribute to the SUSI Zulip bot, you need to follow the above process of setting up the [python-zulip-api](https://github.com/zulip/python-zulip-api) repository and then send Pull Requests to the [python-zulip-api](https://github.com/zulip/python-zulip-api) repository adding features to the susi bot. To align the developers and ensure that two developers don't work on the same feature, please create an issue [here](https://github.com/fossasia/susi_zulipbot/issues/new) and mention that you are working on it.
 ## Screenshots
 Some of the screenshots of the SUSI Zulip bot:
 ![image](https://user-images.githubusercontent.com/17807257/40143106-19bf6150-5978-11e8-82bc-61e9c7489550.png)
